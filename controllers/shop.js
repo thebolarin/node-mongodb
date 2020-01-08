@@ -3,7 +3,7 @@ const path = require('path');
 
 const PDFDocument = require('pdfkit');
 
-const stripe = require('stripe')('sk_test_Qj0MmMvuarfYmPTGXy36O8FG004cqOcRcn');
+const stripe = require('stripe')('');
 
 const Product = require('../models/product');
 const Order = require('../models/order');
