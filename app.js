@@ -23,7 +23,7 @@ const shopController = require('./controllers/shop');
 const isAuth = require('./middleware/is-auth');
 
 
-const MONGODB_URI = 'mongodb+srv://bolarinwa:46sCJxpYnrHajTfc@cluster0-25yze.mongodb.net/shop?retryWrites=true&w=majority'
+const MONGODB_URI = ''
 
 //TODOStarting express framework
 const app = express();
